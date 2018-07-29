@@ -1,7 +1,98 @@
 body {
     background: lightskyblue;
+    float: left;
+    font-size: 1rem
+
 
 }
-#Paragraphs{
-    color: whitesmoke
+
+.Paragraphs{
+    color: whitesmoke;
+    border: 23px solid white;
+    margin: 23px;
+    padding: 23px;
+    float: left;
+    width: 575px;
+    
 }
+.center{
+    float: center;
+}
+
+.right{
+    float: right;
+}
+#left{
+    float: left;
+}
+#Paragraphs{font-family: 'Merienda', cursive;
+}
+@keyframes appear {
+    0% {
+        transform: scale(0.1);
+        opacity: 1;
+    } 
+    50%{
+        transform: scale(1.5);
+        opacity: .5;
+    } 
+    100%{
+        transform: scale(1);
+        opacity: 1;
+    } 
+    }
+    .keyframes {
+        animation-name: appear;
+        animation-duration: 2s;
+        float: right;
+    }
+    a:hover{
+        font-size: 150%
+    }
+    h1 {
+        text-align: center
+    }
+    p.one {
+        border-style: solid;
+        border-color: whitesmoke;
+    }
+    .logo {
+        display: inline;
+        padding-right: .5em;
+    }
+    .navLink {
+        font-size: 18px;
+        color: #2d492c;
+    }
+    
+    .navLink:hover {
+        font-size: 18px;
+        color: #94723b;
+        font-size-adjust: 120%;
+        font-weight: bold;
+    }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+        }
+        
+        li {
+        float: left;
+        }
+        
+        li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        }
+        
+        li a:hover {
+        background-color: #cacaca;
+        }
+        
