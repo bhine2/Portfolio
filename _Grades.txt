@@ -1,29 +1,41 @@
-Assignment: Use CSS ID selectors to style two paragraphs on your About Me page differently.
+Portfolio final grade: 46
 
-Grade: 0
-
-Comment:  Incomplete
-
-I had to grade this as incomplete because I didn't have the link to your github until today.
-
-I see you did make your paragraphs different, but remember that the assignment was to use two CSS IDs to make them different, not just one id and one default.   But since we're moving forward, your paragraphs should now be consistent.
+Comments:  I'm really disappointed to see that you didn't try very hard for the assignments, and never asked for any help.
 
 ########
 
-Assignment: Add an image to your About Me page and edit the CSS so the image and paragraphs are side-by-side.
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
 
-Grade: 0
+Grade: 72
+(50% of overall grade)
 
-Comment: Incomplete
-
-I see you have images.  The assignment was to have your About Me paragraphs beside your image, so try to add those this week as part of applying design principals.
+Points deducted for these items:
+    -5 Default document title not changed on all pages.
+    -9 Navigation links missing from 3 pages.
+    -5 Contact form not included.
+    -5 About Me / Bio page not completed
+    -2 Navigation links broken on Resume page.
+    -2 Unused html pages left in project.
 
 ########
 
-Overall Portfolio:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 40
+(25% of overall grade)
+
+Points deducted for these items:
+    -5 Google fonts not Unused
+    -5 Font color and background contrast ratio not 3.0 or better.
+    -50 No Accessibility changes applied.
+
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
 Grade: 0
+(25% of overall grade)
 
-Comment: Incomplete
-
-Your HTML is pretty good so far, I noted a few minor things as TODOs.  You should delete any extra files from your folder, too.
+Points deducted for these items:
+    Assignment was not completed.
