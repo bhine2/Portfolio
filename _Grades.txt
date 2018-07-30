@@ -1,41 +1,36 @@
-Portfolio final grade: 46
+Portfolio final grade: 96
 
-Comments:  I'm really disappointed to see that you didn't try very hard for the assignments, and never asked for any help.
+Comments:  Really good job, just a few minor issues.
 
 ########
 
 Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
 
-Grade: 72
+Grade: 95
 (50% of overall grade)
 
 Points deducted for these items:
-    -5 Default document title not changed on all pages.
-    -9 Navigation links missing from 3 pages.
-    -5 Contact form not included.
-    -5 About Me / Bio page not completed
-    -2 Navigation links broken on Resume page.
+    -1 Default document title not changed on Home page.
+    -2 Broken image link on Webpage page.
     -2 Unused html pages left in project.
 
 ########
 
 Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
 
-Grade: 40
+Grade: 95
 (25% of overall grade)
 
 Points deducted for these items:
-    -5 Google fonts not Unused
-    -5 Font color and background contrast ratio not 3.0 or better.
-    -50 No Accessibility changes applied.
+    -5 Google fonts not Used
 
 
 ########
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 0
+Grade: 100
 (25% of overall grade)
 
 Points deducted for these items:
-    Assignment was not completed.
+    None
